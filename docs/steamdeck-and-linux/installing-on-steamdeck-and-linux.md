@@ -38,15 +38,7 @@ If you're using an older version of NorthstarProton, replace the information abo
 
 ## Lutris (Wine)
 
-1. If you don't already have the game downloaded, install the game [from here.](https://lutris.net/games/titanfall-2/)
-2. Download the latest version of Northstar from the [releases](https://github.com/R2Northstar/Northstar/releases) page
-3. Extract all contents of the file to your Titanfall 2 folder
-4. **If you have the game installed on Lutris:** right click _Titanfall 2_ > _Configure_ > _Game Options_ > Set _Executable path_ to _NorthstarLauncher.exe_
-5. **Otherwise:** click the `+` button in the top left > set the name to whatever and _Runner_ to _Wine_ > click on _Game options_ > set _Executable path_ to _NorthstarLauncher.exe_ then save.
-
-Now just launch the game through Lutris and you should be greeted with a Northstar welcome message upon entering the main menu.
-
-> **Note:** Origin might prompt you to log in and "set an installation folder for future downloads" on first launch. Just do those, close Origin, then launch the game again.
+[This repository](https://github.com/begin-theadventure/lutris-scripts/tree/main/lutris-scripts/Northstar) has images, tutorials, and scripts for Lutris.
 
 ## LatencyFleX
 
